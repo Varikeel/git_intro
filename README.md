@@ -1,1 +1,2 @@
-"Ian Flynn" 
+Ian Flynn 
+flynni@oregonstate.edu
